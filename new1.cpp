@@ -3,7 +3,8 @@
 
 int main(){
 
-std::cout <<"Somtheing\n";
+std::cout <<"Somtheing New\n";
+//new
 
 return 0;
 }
